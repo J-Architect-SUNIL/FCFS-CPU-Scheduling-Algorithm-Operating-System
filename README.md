@@ -6,6 +6,10 @@ This repository contains an implementation of the **First-Come, First-Served (FC
 ## Usage
 Clone the repository and run the code to see the FCFS scheduling in action.
 
+
+```bash
+https://github.com/J-Architect-SUNIL/FCFS-CPU-Scheduling-Algorithm-Operating-System.git
+
 ## Output
 Enter the number of Processes: 6
 Enter Process ID, Arrival Time, and Burst Time for process 1:
@@ -35,6 +39,3 @@ Gantt Chart
 ------------------------------------------
 0     4     9     15     23     25     29
 
-
-```bash
-https://github.com/J-Architect-SUNIL/FCFS-CPU-Scheduling-Algorithm-Operating-System.git
