@@ -64,7 +64,7 @@ int main()
     }
 
     // Print Gantt Chart
-    printf("\n\nGantt Chart\n");
+    printf("\n\nGrantt Chart\n");
 
     // Print horizontal line for Gantt Chart
     for(i = 0; i < 7 * r; i++)
